@@ -1,0 +1,55 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Portfolio
+theme: showfolio
+
+params:
+  name: Portfolio MA
+  description: Modern portfolio theme for your Hugo site.
+  author: Miguel Arrojo
+  authorEmail: name@example.com
+  authorImage: /pfp.png
+  autoDarkMode: true
+  copyright: Copyright © 2021 - Miguel Arrojo · All rights reserved
+  favicon: favicon.ico
+  homepage:
+    title: "Hey! \U0001F44B I'm Miguel Arrojo"
+    tagline: Student at Los Enlaces, Zaragoza
+    description: >-
+      Currently finishing my vocational training in Web Applications Development.
+    contact: 'https://twitter.com/'
+    resume:
+      skills:
+        - Visual Design
+        - Product Development
+      work:
+        - name: Google
+          role: Product Engineer
+          duration: Nov 2019 - Apr 2021
+        - name: Amazon
+          role: Sr. UX Designer
+          duration: Jan 2016 - Oct 2019
+      courses:
+        - name: Design Principles
+          provider: UX Academy
+          duration: Nov 2019 - Jan 2020
+    codepen:
+      username: apvarun
+      pens:
+        - MQaRKL
+        - RxodrP
+        - BmXGdm
+        - wdVypQ
+    
+    social:
+      twitter: 'https://twitter.com/'
+      linkedin: 'https://linkedin.com/in/'
+      github: 'https://github.com/'
+      medium: 'https://medium.com/'
+      reddit: 'https://reddit.com/'
+      dribbble: 'https://dribbble.com/'
+build:
+  writeStats: true
+markup:
+  highlight:
+    style: dracula
