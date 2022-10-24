@@ -45,21 +45,18 @@ params:
         - company: System T&Z
           address: Escoriaza y Fabro 105, 50001 Zaragoza, Spain
           duration: Apr 2021 - Jun 2021
-    codepen:
-      username: apvarun
-      pens:
-        - MQaRKL
-        - RxodrP
-        - BmXGdm
-        - wdVypQ
+
+      #codepen:
+      #username: apvarun
+      #pens:
+        #- MQaRKL
+        #- RxodrP
+        #- BmXGdm
+        #- wdVypQ
     
     social:
-      twitter: 'https://twitter.com/'
-      linkedin: 'https://linkedin.com/in/'
-      github: 'https://github.com/'
-      medium: 'https://medium.com/'
-      reddit: 'https://reddit.com/'
-      dribbble: 'https://dribbble.com/'
+      linkedin: 'https://www.linkedin.com/in/miguelarrojo/'
+      github: 'https://github.com/m-arrojo'
 build:
   writeStats: true
 markup:
