@@ -7,7 +7,7 @@ params:
   name: Portfolio MA
   description: Modern portfolio theme for your Hugo site.
   author: Miguel Arrojo
-  authorEmail: name@example.com
+  authorEmail: miguel2002jnt@gmail.com
   authorImage: /pfp.png
   autoDarkMode: true
   copyright: Copyright © 2021 - Miguel Arrojo · All rights reserved
@@ -16,23 +16,35 @@ params:
     title: "Hey! \U0001F44B I'm Miguel Arrojo"
     tagline: Student at Los Enlaces, Zaragoza
     description: >-
-      Currently finishing my vocational training in Web Applications Development.
+      Currently finishing my vocational training in Web Applications Development, I enjoy helping others and learning new things.
     contact: 'mig.arrojo@gmail.com'
     resume:
       skills:
-        - Visual Design
-        - Product Development
-      work:
-        - name: Google
-          role: Product Engineer
-          duration: Nov 2019 - Apr 2021
-        - name: Amazon
-          role: Sr. UX Designer
-          duration: Jan 2016 - Oct 2019
-      courses:
-        - name: Design Principles
-          provider: UX Academy
-          duration: Nov 2019 - Jan 2020
+        - HTML, CSS, JavaScript
+        - Windows and Windows Server
+        - Web Development
+        - Google Tools (Drive, Docs, Sheets, Forms, etc.)
+        - Social Media Management
+        - Office Suite (Word, Excel, PowerPoint, etc.)
+        - UML Diagrams (Draw.io)
+        - English (C1)
+        - Spanish (Native)
+
+      education:
+        - title: Higher Technician in Development of Web Applications
+          where: CPIFP Los Enlaces
+          duration: Sept 2021 - Current
+        - title: Technician in Microcomputer Systems and Networks
+          where: CPIFP Los Enlaces
+          duration: Sept 2019 - Jun 2021
+        
+      internships:
+        - company: Procudo d.o.o
+          address: Fallerovo setaliste 22, 10000 Zagreb, Croatia
+          duration: Jun 2021 - July 2021
+        - company: System T&Z
+          address: Escoriaza y Fabro 105, 50001 Zaragoza, Spain
+          duration: Apr 2021 - Jun 2021
     codepen:
       username: apvarun
       pens:
